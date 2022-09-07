@@ -62,3 +62,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Merupakan web service atau backend dari aplikasi android yang berada pada repository lain bernama poliwangi-proyekakhir
+/
+3C_Dika-Hermawan_Proyek-Akhir-Aplikasi
